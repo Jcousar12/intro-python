@@ -1,0 +1,4 @@
+Baking a cake is an example of abstraction
+An float is an decimal and a integer is an decimal
+An variable in python is an reference or pointer to an object
+you could use an bootlean to a program when trying to check an email 
