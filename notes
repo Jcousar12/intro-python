@@ -1,0 +1,7 @@
+'complexity is the measure of how resource intensive'
+a program can be
+Abstraction is the process of hiding/masking complexity
+when encountering a syntax error it occurs when you are not using the proper grammer/language rules of python
+function call-- Executes the instructions
+function defintion--- intructions that will only run when called
+  
